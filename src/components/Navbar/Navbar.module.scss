@@ -3,12 +3,14 @@
 .nav {
   align-items: center;
   display: grid;
+  background: red;
   grid-template-columns: 1fr 2fr 2fr;
   grid-template-areas: 'logo links busca icones';
   height: 100px;
   padding: 0 120px;
   position: absolute;
   width: 100vw;
+  border-bottom: 1px solid yellow;
   z-index: 1;
   @media(max-width: $tablet) {
     grid-template-areas:
