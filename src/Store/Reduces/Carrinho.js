@@ -10,10 +10,13 @@ const initialState =  []
     reducers: {
         mudarCarrinho: (state, {payload}) => {
             const temItem = state.some(item => item.id  === payload);
-            if(!temItem) return state.push({
-                id: payload,
-                quantidade: 1
-            })
+            if(!temItem) return [
+                ...state,
+                {
+                    id: payload, 
+                    quantidade: 1
+                }
+            ];
                 return state.filter(item => item.id !== payload)
         }
     }
