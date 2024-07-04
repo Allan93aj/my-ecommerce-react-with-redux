@@ -6,9 +6,9 @@ This directory is a brief example of a [Create React App](https://github.com/fac
 
 Deploy your own Create React App project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/allan-andrade-de-jesus-projects/my-ecommerce-react-with-redux/8QLSg68haQn9eZTzUSvfgvvXe7WS)
+[![Deploy with Vercel](https://vercel.com/button)](https://my-ecommerce-react-with-redux-71ihw8g2q.vercel.app/)
 
-_Live Example: https://vercel.com/allan-andrade-de-jesus-projects/my-ecommerce-react-with-redux/8QLSg68haQn9eZTzUSvfgvvXe7WS
+_Live Example: https://my-ecommerce-react-with-redux-71ihw8g2q.vercel.app/
 
 ## Available Scripts
 
